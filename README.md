@@ -6,7 +6,7 @@ _Creadores de inteligencia aplicada a bots · Discord.js · TypeScript · Node.j
 
 <div align="center">
 
-![Banner ShniCorp](https://i.ibb.co/qYqFzvT/banner-shnicorp.png)
+![Banner ShniCorp](https://i.imgur.com/0q06YRC.jpeg)
 
 **Automatizamos comunidades. Diseñamos agentes. Refinamos interacciones.**  
 <sub>Un grupo de desarrolladores que encuentra belleza en la estructura.</sub>
