@@ -138,15 +138,8 @@ Usa, modifica y distribuye libremente con atribución.
 
 <div align="center">
 
-> *“No buscamos viralidad. Buscamos consistencia.”* <sub>© ShniCorp — Discord Automation & Codecraft</sub>
+> *“No buscamos viralidad. Buscamos consistencia.”*
+> <sub>© ShniCorp — Discord Automation & Codecraft</sub>
 
 </div>
-```
-
-Incluye:
-
-* Diseño visual centrado con banner y bloques minimalistas.
-* Filosofía de desarrollo expresada con tono técnico.
-* Tablas coherentes y branding modular.
-* Enlaces y placeholders para expansión futura.
 
